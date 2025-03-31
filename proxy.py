@@ -4,7 +4,7 @@ import requests
 
 # Configuration
 MINECRAFT_SERVER = ("fbft.fr", 25565)  # IP du serveur
-DISCORD_WEBHOOK = "https://discord.com/api/webhooks/TON_WEBHOOK"  # Remplace par ton Webhook Discord
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1356315376383692881/Glh1WLEZFs_4u4QsN7jONJDdKKzWsmDk0bB0AfU2A-Zjd5vJ_ftyD2iDS0CCWWYqwheX"  # Remplace par ton Webhook Discord
 PROXY_HOST = "0.0.0.0"  # Proxy ouvert à tous
 PROXY_PORT = 25566  # Port du proxy
 
